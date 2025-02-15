@@ -10,10 +10,6 @@ Python **Pixel Tetris** not only serves as an enjoyable gaming experience but al
   <img src="Videos/TetrisLogo.png" alt="Tetris Logo" width="800">
 </div>
 
-## 🎥 Linux Version [▶](https://github.com/justin-marian/pixel-tetris/blob/main/Videos/Linux.gif)
-
-## 🎥 Windows Version [▶](https://github.com/justin-marian/pixel-tetris/blob/main/Videos/Windows.gif)
-
 ## Tetrominoes :building_construction:
 
 Tetrominoes are the fundamental building blocks in Tetris. They are made up of **4 Blocks** and come in various shapes. There are different types of tetrominoes, including free tetrominoes, one-sided tetrominoes, and fixed tetrominoes. Let's explore them:
