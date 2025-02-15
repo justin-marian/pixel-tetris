@@ -12,11 +12,11 @@ Python **Pixel Tetris** not only serves as an enjoyable gaming experience but al
 
 ## 🎥 Linux Version
 
-[▶ Watch Linux Version](Videos/Linux.mp4)
+[▶ Watch Linux Version](Videos/Linux.gif)
 
 ## 🎥 Windows Version
 
-[▶ Watch Windows Version](Videos/Windows.mp4)
+[▶ Watch Windows Version](Videos/Windows.gif)
 
 ## Tetrominoes :building_construction:
 
