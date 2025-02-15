@@ -10,21 +10,11 @@ Python **Pixel Tetris** not only serves as an enjoyable gaming experience but al
   <img src="Videos/TetrisLogo.png" alt="Tetris Logo" width="800">
 </div>
 
-<div align="center">
-  <h2>Linux Version</h2>
-  <video width="800" controls>
-    <source src="Videos/Linux.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+## 🎥 Linux Version  
+[▶ Watch Linux Version](Videos/Linux.mp4)
 
-<div align="center">
-  <h2>Windows Version</h2>
-  <video width="800" controls>
-    <source src="Videos/Windows.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+## 🎥 Windows Version  
+[▶ Watch Windows Version](Videos/Windows.mp4)
 
 ## Tetrominoes :building_construction:
 
