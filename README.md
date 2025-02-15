@@ -62,9 +62,9 @@ As free tetrominoes, `J` is equivalent to `L`, and `S` is equivalent to `Z`. But
 
 `Background Music` :speaker:: classical music tracks that play in the background during gameplay ***the songs are randomly used in the game***:
 
-**Allegro.ogg**: gameplay with lively, upbeat rhythm.
-**Lacrimosa.ogg**: drama and depth to game ambiance.
-**Rondo Alla Turka.ogg**: fun and liveliness into gameplay.
+- **Allegro.ogg**: gameplay with lively, upbeat rhythm.
+- **Lacrimosa.ogg**: drama and depth to game ambiance.
+- **Rondo Alla Turka.ogg**: fun and liveliness into gameplay.
 
 `Sound Effects` :sound:: provide immediate ***feedback to player actions and game events***.
 
