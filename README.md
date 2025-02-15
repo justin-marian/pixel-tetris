@@ -92,6 +92,7 @@ python3 Terminal.py
 
 `Terminal.py`
 **Purpose**: This module manages the installation of Python packages.
+
 **Key Functions**:
 
 - `install(package)`: Installs a specified Python package using pip.
@@ -99,6 +100,7 @@ python3 Terminal.py
 
 `Tetris.py`
 **Overview**: This module implements the main game logic and user interface for Pixel Tetris.
+
 **Key Components**:
 
 - `Grid, Wall, Floor`: Manage the Tetris play area.
