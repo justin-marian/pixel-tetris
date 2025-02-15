@@ -10,10 +10,12 @@ Python **Pixel Tetris** not only serves as an enjoyable gaming experience but al
   <img src="Videos/TetrisLogo.png" alt="Tetris Logo" width="800">
 </div>
 
-## 🎥 Linux Version  
+## 🎥 Linux Version
+
 [▶ Watch Linux Version](Videos/Linux.mp4)
 
-## 🎥 Windows Version  
+## 🎥 Windows Version
+
 [▶ Watch Windows Version](Videos/Windows.mp4)
 
 ## Tetrominoes :building_construction:
