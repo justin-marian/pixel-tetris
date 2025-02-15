@@ -68,11 +68,11 @@ As free tetrominoes, `J` is equivalent to `L`, and `S` is equivalent to `Z`. But
 
 `Sound Effects` :sound:: provide immediate ***feedback to player actions and game events***.
 
-**Amadeus-Laughing.ogg**: skillful moves or when achieving a high score.
-**Block-Rotate.ogg**: triggered every time a player rotates a Tetromino.
-**Force-Hit-Line.ogg**: forcefully placed down quickly.
-**Remove-Line.ogg**: player successfully completes and removes a line.
-**Slow-Hit-Line.ogg**: Tetromino is placed down slowly and carefully.
+- **Amadeus-Laughing.ogg**: skillful moves or when achieving a high score.
+- **Block-Rotate.ogg**: triggered every time a player rotates a Tetromino.
+- **Force-Hit-Line.ogg**: forcefully placed down quickly.
+- **Remove-Line.ogg**: player successfully completes and removes a line.
+- **Slow-Hit-Line.ogg**: Tetromino is placed down slowly and carefully.
 
 ## Requirements :clipboard:
 
